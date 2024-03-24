@@ -1,3 +1,3 @@
 # windows
  
-# Everything related to Windows will be here
+Everything related to Windows will be here
